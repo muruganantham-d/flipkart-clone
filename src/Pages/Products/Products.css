@@ -1,0 +1,15 @@
+.Products{
+    padding: 80px 10px 10px 20px;
+    width: 100%;
+    background: rgb(247, 246, 246);
+    display: flex;
+}
+
+.Products-Filters{
+    display: none;
+    height: 100%;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 10px 10px rgb(208, 202, 202);
+    margin-right: 1rem;
+}
